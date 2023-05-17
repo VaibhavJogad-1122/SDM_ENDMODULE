@@ -1,0 +1,20 @@
+Software Requirements Specification (SRS) Document: Employee Recruitment System
+
+1. Introduction
+   1.1 Purpose
+   The purpose of this document is to provide a detailed description of the requirements for the Employee Recruitment System. It outlines the functional and non-functional requirements, use cases of the system.
+
+   1.2 Scope
+   The Employee recruitment System is a web-based application that allows jobseekers to register themselves online, view organization requirements and apply for the suitable job. The system has facilities where prospective candidates can upload their CV and apply for jobs suited to them. It also makes it possible for organizations to post their staffing requirements and view profiles of interested candidates. The primary purpose to develop this system is to optimize the recruitment process for an organization.
+
+2. Functional Requirements
+   2.1 New User Registration:
+      - Any new user (jobseeker) should be able view the application and register for himself by providing his details.
+
+   2.2 Login & log out
+      - All the registered users should be able login to the portal and be able to check any new job openings available.
+      -User should be able to upload CV and apply for the jobs suited to them.
+
+   2.3 Upload new job opportunities
+      - Various organizations should be able login and upload new job vacancies.
+      - Recruiters should be able to view profiles of interested candidates.
